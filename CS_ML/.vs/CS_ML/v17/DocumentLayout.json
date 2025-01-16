@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\GITHUB\\CS_ML\\CS_ML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAB6246-7C67-4D39-BF0D-C35B6DE2430A}|CS_ML\\CS_ML.csproj|c:\\users\\jashv\\onedrive\\\u684C\u9762\\github\\cs_ml\\cs_ml\\cs_ml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAB6246-7C67-4D39-BF0D-C35B6DE2430A}|CS_ML\\CS_ML.csproj|solutionrelative:cs_ml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\GITHUB\\CS_ML\\CS_ML\\CS_ML\\Program.cs",
+              "RelativeDocumentMoniker": "CS_ML\\Program.cs",
+              "ToolTip": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\GITHUB\\CS_ML\\CS_ML\\CS_ML\\Program.cs",
+              "RelativeToolTip": "CS_ML\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:23:30.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
