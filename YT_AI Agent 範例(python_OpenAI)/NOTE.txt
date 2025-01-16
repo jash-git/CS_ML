@@ -1,0 +1,5 @@
+YT_AI Agent 範例(python_OpenAI)
+
+資料來源: https://www.youtube.com/watch?v=Mjyj0Aw9K7s
+https://www.largitdata.com/course/250/
+https://colab.research.google.com/github/ywchiu/largitdata/blob/master/code/Course_250.ipynb
